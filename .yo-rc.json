@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "https://github.com/ptiforka/studentv2-backend-app.git",
+    "project_destination_path": "studentv2-backend-app",
+    "application_name": "studentv2",
+    "project_technology": "rubyonrails",
+    "database_type": "postgresql"
+  }
+}
